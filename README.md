@@ -23,8 +23,7 @@ I specialize in:
 
 Feel free to explore my repositories and check out some of the projects I’m passionate about. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/asif-dev/)
+- [Email](mailto:asifver2.1@gmail.com)
 
 ## 🚀 Let's build something amazing together!
